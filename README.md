@@ -11,7 +11,7 @@ Post Graduate Program in Artificial Intelligence and Machine Learning
   - To help in designing the loan campaign for converting the existing customers to liability customers by building a classification model that identifies the existing customers that are more likely to buy a loan.
   - Skills and Tools: EDA, Visualization, Supervised Learning, Logistic Regression, Model Evaluation.
 
-### Travel Package Purchase Prediction
+### Travel Package Purchase
 - Course Ensemble Techniques
 - The "Visit with us" travel company dataset is used to analyze the customers' information and build a model to predict the potential customer who is going to purchase the newly introduced package.
 - Skills and Tools: EDA, Data Preprocessing, Customer Profiling, Bagging Classifiers - Bagging and Random Forest, Boosting Classifier - AdaBoost, Gradient Boosting, XGBoost, Stacking Classifier.
